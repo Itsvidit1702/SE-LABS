@@ -1,0 +1,14 @@
+# Lab 2 – Reflection
+**Project:** Clinical Trial Subject Recruitment Engine
+
+### 1. Did your estimations reflect the actual effort?
+The story point estimations provided a reasonable representation of the complexity and effort required for each task. Simpler functionalities required fewer points, while more complex functionalities such as eligibility assessment required higher points.
+
+### 2. Was your backlog well-prioritized?
+Yes, the backlog was prioritized based on functionality importance and user requirements. High-priority stories focused on essential candidate registration, medical information submission, and eligibility assessment.
+
+### 3. How did your simulated sprint align with your plan?
+The two simulated sprints followed the planned workflow. Stories were moved from To Do to In Progress and then Done. Both sprints were completed as planned.
+
+### 4. What insights did the burndown chart give about your team's capacity?
+The burndown chart helped visualize the remaining work throughout the sprint. It provided an understanding of task completion progress and helped evaluate the team's ability to complete the planned workload.
